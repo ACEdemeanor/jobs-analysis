@@ -13,6 +13,7 @@ The dataset contains over 8,000 job listings.
 - location: Job location
 - skills: Required skills
 - posted_date: Job posting date
+  
 
 ## Tools Used
 - Python
