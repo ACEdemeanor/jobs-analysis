@@ -47,3 +47,10 @@ report.pdf
 
 ## Group Members
 -Thomas Dexter-677484
+
+
+## Use of AI Tools
+
+AI tools such as ChatGPT were used as supplementary resources to enhance understanding of data analysis concepts and assist in structuring the project workflow.
+
+All coding, analysis, and interpretation of results were carried out by myself and help from classmates. AI-generated suggestions were critically evaluated and adapted to fit the project requirements.
