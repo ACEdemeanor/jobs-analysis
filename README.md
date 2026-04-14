@@ -31,7 +31,7 @@ The dataset contains over 15,000 job listings.
 
 ## Project Structure
 
-visuals/
+-visuals/
 - average_salary_by_job.png
 - distribution_by_locations.png
 - salary_distribution.png
@@ -39,7 +39,7 @@ visuals/
 - boxplot_salary_roles.png
 - correlation_heatmap.png
 
-Final Report.pdf
+-Final Report.pdf
 
 - jobs.csv  
 - jobs_cleaned.csv
