@@ -30,9 +30,6 @@ The dataset contains over 15,000 job listings.
 - Skills significantly influence earnings
 
 ## Project Structure
-data/
-- raw_dataset.csv
-- cleaned_dataset.csv
 
 visuals/
 - average_salary_by_job.png
@@ -42,8 +39,13 @@ visuals/
 - boxplot_salary_roles.png
 - correlation_heatmap.png
 
+Final Report.pdf
+
+- jobs.csv  
+- jobs_cleaned.csv
+
 notebook.ipynb
-report.pdf
+
 
 ## Group Members
 -Thomas Dexter-677484
